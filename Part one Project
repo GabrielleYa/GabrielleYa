@@ -1,0 +1,130 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOHdWHUVna5YoBcKQeMo1GR",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/GabrielleYa/GabrielleYa/blob/main/Part%20one%20Project\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "5kNY0MY9GW1P"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "Km20RDhsHvsP"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Prediction of Product Sales\n",
+        "\n",
+        "```\n",
+        "# This is formatted as code\n",
+        "```\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "IyJlUxoJHIuJ"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Project Overveiw\""
+      ],
+      "metadata": {
+        "id": "T_s8cfYoHxcG"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "pMibhSzLILh7"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Load and Inspect Data\""
+      ],
+      "metadata": {
+        "id": "4zHh8J2bIBKU"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "zrjAN6myIMam"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "fxbrqg4WIKHB"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Clean Data\""
+      ],
+      "metadata": {
+        "id": "1q7zIZ0pIOyS"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Explanotory Data Analysis\""
+      ],
+      "metadata": {
+        "id": "GJykD2ZyIULU"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## \"Featured Inspection\""
+      ],
+      "metadata": {
+        "id": "a_ivZb_IIb1s"
+      }
+    }
+  ]
+}
